@@ -81,6 +81,13 @@ The complete graph can be seen below.
 
 <img width="1161" alt="Screen Shot 2021-11-14 at 3 59 18 AM" src="https://user-images.githubusercontent.com/87248687/141674461-1a40bfda-32d3-41fa-b386-0bb2513e0aee.png">
 
+## Summary
+
+Based on the results from this analysis, I believe there are a few things that can be implemented to help reduce some of the dispairities between the different city types.  There are significantly less rides taken within rural and suburban cities than there are in urban cities.  Here are a few ways that we can attempt to change this:
+
+1. Based on the data, the number of rides taken during the year is directly correlated with the amount of available drivers in the city.  If we can attract more available rideshare drivers in rural rural and suburban cities we may be able to generate more rides and thus generate more fares.
+2. There is also a correlation between the average fare per ride and the amount of rides taken.  In suburban and rural cities the average fare per ride is significantly higher than that of urban cities.  This may prove to be one of the biggest factors why there are significantly more rides in urban cities than there is in rural and suburban cities.  If we can lower the fare prices in rural and suburban cities then we may be able to positively affect the amount of rides people take with this ride sharing service.
+3. One of the biggest disparities present in our data is the difference in the average fare per driver in urban cities versus that of rural and suburban cities.  The average fare per driver is almost double or triple in rural and suburban cities.  This could be due to the length of rides in suburban and rural areas.  The big fare disparity could pose as a problem for retaining drivers in urban settings long term.  One solution to counteract this problem could be the implementation of a surge pricing model.  This would increase the price for fares in areas of high demand during periods of high demand.  This would positively influence the amount of active drivers as well as help raise the average fare they would generate.
 
 
 
